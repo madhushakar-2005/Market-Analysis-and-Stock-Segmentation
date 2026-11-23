@@ -1,0 +1,12 @@
+Sector,n_cluster_0,n_cluster_1,pct_cluster_0,pct_cluster_1
+Communication Services,17,4,4.3,4.3
+Consumer Discretionary,37,10,9.3,10.9
+Consumer Staples,24,8,6.0,8.7
+Energy,19,2,4.8,2.2
+Financials,62,13,15.5,14.1
+Health Care,49,9,12.3,9.8
+Industrials,70,9,17.5,9.8
+Information Technology,54,20,13.5,21.7
+Materials,16,8,4.0,8.7
+Real Estate,30,0,7.5,0.0
+Utilities,21,9,5.3,9.8
